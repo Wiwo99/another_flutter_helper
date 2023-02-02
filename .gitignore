@@ -1,0 +1,23 @@
+# Flutter/Dart
+.dart_tool/
+build/
+*.flx
+*.snapshot
+*.vm
+packages/
+.packages
+.pub-cache/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+*.DS_Store
+
+# Windows
+Thumbs.db
